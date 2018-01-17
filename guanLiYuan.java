@@ -9,6 +9,7 @@ public class guanLiYuan {
 	private String manager_sex;//性别
 	private String manager_id_num;//身份证号码
 	private String manager_phone;//电话
+	private String manager_email;
 	
 	public String getManager_name() {
 		return manager_name;
